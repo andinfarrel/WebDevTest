@@ -1,14 +1,10 @@
 # WebDevTest
 
-----------
-
 ## About
 
 This is repository contains the files for a Web Development Test.
 
 The design was made by [MadeBySphere](https://madebysphere.com)
-
-----------
 
 ## Notes
 
