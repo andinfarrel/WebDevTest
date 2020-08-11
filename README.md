@@ -10,4 +10,4 @@ The design was made by [MadeBySphere](https://madebysphere.com)
 
 - All the assets are svg files located in the assets folder
 - No third party library was used, everything is vanilla HTML/CSS
-- The fonts are imported in the CSS file using the `@import` keyword, so for the site to display as intended, internet connection is required.
+- The fonts are imported from the Google Fonts API using the `@import` keyword in the CSS file, so for the site to display as intended, internet connection is required.
