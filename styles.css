@@ -119,15 +119,21 @@ main {
         align-content: center;
         align-items: center;
     }
-    .bg-path {
+    .bg-path-container {
         position: absolute;
+        left: 40%;
+        width: 60vw;
+        height: 100vh;
+    }
+    .bg-path {
+        position: relative;
+        right: 0;
         background: url(./assets/path.svg) no-repeat;
         background-size: cover;
-        width: 100vw;
-        height: 100vh;
+        width: 100%;
+        height: 100%;
         z-index: -1;
         opacity: 0.66;
-        /* background-position: center; */
     }
 }
 
